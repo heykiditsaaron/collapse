@@ -1,7 +1,0 @@
-"collapse"
-{
-    "base"       "base"
-    "title"      "Collapse"
-    "category"   "other"
-    "menusystem" "1"
-}
