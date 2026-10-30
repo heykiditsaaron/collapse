@@ -8,7 +8,7 @@ Initial native gamemode scaffold. Gameplay, rounds, elimination, arena behavior,
 
 ## Installation
 
-Copy `gamemodes/collapse/` into your Garry's Mod installation's `garrysmod/gamemodes/` directory, then select the `collapse` gamemode when starting the server.
+Copy the gamemode files from this repository into your Garry's Mod installation's `garrysmod/gamemodes/collapse/` directory, then select the `collapse` gamemode when starting the server.
 
 ## Project boundaries
 
